@@ -1,6 +1,6 @@
 # node-js-sample
 
-A barebones Node.js app using [Express 4](http://expressjs.com/). (Test changes #1)
+A barebones Node.js app using [Express 4](http://expressjs.com/). (Test changes #2)
 
 ## Running On Local
 
